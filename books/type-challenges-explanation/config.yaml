@@ -1,0 +1,9 @@
+title: "type-challenges 徹底解説"
+summary: "type-challenges の解説本です"
+topics: ["TypeScript"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 00013-warm-hello-world
+  - 00004-easy-pick
