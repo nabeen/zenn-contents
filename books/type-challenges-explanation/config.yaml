@@ -8,3 +8,6 @@ chapters:
   - 00013-warm-hello-world
   - 00004-easy-pick
   - 00007-easy-readonly
+  - 00011-easy-tuple-to-object
+  - 00014-easy-first
+  - 00018-easy-tuple-length
