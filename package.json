@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/nabeen/zenn-contents#readme",
   "dependencies": {
-    "zenn-cli": "0.1.153"
+    "zenn-cli": "0.1.157"
   }
 }
