@@ -1,5 +1,5 @@
 ---
-title: "type-challenges の 1問目を丁寧に解く"
+title: "type-challenges の 1 問目を丁寧に解く"
 emoji: "😸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["TypeScript"]
